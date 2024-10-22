@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/sentimentanalysis/usesentimentanalysis.ts","./src/components/sentimentanalysis/worker/worker.ts","./src/components/summarize/summarize.tsx","./src/components/summarize/worker/worker.ts"],"version":"5.6.3"}
